@@ -1,0 +1,4 @@
+create database practica3;
+use practica3;
+create table web(pagina text,estatus boolean;
+
